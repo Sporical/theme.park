@@ -6,7 +6,8 @@
 // You must escape any backward slashes. "\\"
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>  _______           _______           _______           _______ 
+<div class="custom-text-header"> <pre>
+_______           _______           _______           _______ 
 (  ____ \|\     /|(  ___  )|\     /|(  ___  )|\     /|(  ____ \
 | (    \/| )   ( || (   ) |( \   / )| (   ) || )   ( || (    \/
 | |      | (___) || (___) | \ (_) / | |   | || |   | || (_____ 
